@@ -2,7 +2,7 @@
 
 A basic machine learning project using Python and Jupyter notebooks to demonstrate data analysis and model development. This project uses the classic Iris dataset and provides examples for statistical exploration.
 
----
+--- 
 
 ## 📁 Project Contents
 
